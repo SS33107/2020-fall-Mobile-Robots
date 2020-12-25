@@ -1,0 +1,4 @@
+<lanuch>
+	<node pkg="scan" type="myscan.py" name="scan_values" output="screen">
+	</node>
+</launch>
